@@ -130,7 +130,7 @@ Voit antaa saavutettavuuspalautetta sähköpostitse <mooc@helsinki.fi>. Otsikoi 
 Täytäntöönpanomenettely
 -----------------------
 
-Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, [voit tehdä ilmoituksen valvovalle viranomaiselle](voit%20tehdä%20ilmoituksen%20valvovalle%20viranomaiselle.). Sivulla kerrotaan tarkasti, miten ilmoituksen voi tehdä ja miten asia käsitellään.
+Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, [voit tehdä ilmoituksen valvovalle viranomaiselle](https://www.saavutettavuusvaatimukset.fi/fi/kayttajan-oikeudet/tee-saavutettavuuskantelu-tai-pyyda-selvitysta). Sivulla kerrotaan tarkasti, miten ilmoituksen voi tehdä ja miten asia käsitellään.
 
 Valvontaviranomaisen yhteystiedot
 ---------------------------------
