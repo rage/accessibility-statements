@@ -1,7 +1,7 @@
 Accessibility statement
 =======================
 
-This is the accessibility statement for the MOOC learning environment (<https://courses.mooc.fi/>). The statement was last updated on 17 June 2025.
+This is the accessibility statement for the MOOC learning environment (<https://courses.mooc.fi/>). The statement was last updated on 8 October 2025.
 
 The website is governed by the Act on the Provision of Digital Services (306/2019). The Act stipulates that public online services must be accessible, which means that everyone must have equal opportunities to use them.
 
@@ -30,10 +30,6 @@ Currently inaccessible content and features (WCAG success criteria in brackets)
 ### Website features
 
 -   The feature 'Improve material' cannot be used with a keyboard or assistive technologies (WCAG 2.1.1).
-
--   Footnotes cannot be opened or used with a keyboard or screen reader (WCAG 1.3.1, 2.1.1). Footnotes overlay other content and cannot be closed without moving the pointer (WCAG 1.4.13).
-
--   Peer and self-assessment cannot be completed with only a keyboard or screen reader (WCAG 2.1.1). The selected value cannot be programmatically determined (WCAG 1.3.1). The comment field label has not been programmatically associated with the field (WCAG 1.3.1, 4.1.2). The progress bar for peer assessment does not scale appropriately for narrow screens (WCAG 1.4.10).
 
 -   Error messages in the login form are not announced by screen readers (WCAG 4.1.3). Link contrast ratio is insufficient (WCAG 1.4.3).
 
