@@ -1,7 +1,7 @@
 Tillgänglighetsutlåtande
 ========================
 
-Det här är ett tillgänglighetsutlåtande för den digitala lärmiljön MOOC (<https://courses.mooc.fi/>) som senast uppdaterades 17.6.2025.
+Det här är ett tillgänglighetsutlåtande för den digitala lärmiljön MOOC (<https://courses.mooc.fi/>) som senast uppdaterades 8.10.2025.
 
 Webbplatsen omfattas av lagen om tillhandahållande av digitala tjänster. Enligt lagen måste offentliga e-tjänster vara tillgängliga, vilket innebär att alla ska ha lika möjligheter att använda e-tjänsterna.
 
@@ -30,10 +30,6 @@ Innehåll eller funktioner som ännu inte är tillgängliga (relaterade WCAG-kri
 ### Webbplatsens egenskaper
 
 -   Funktionen Utveckla material är inte åtkomlig med hjälp av ett tangentbord eller hjälpmedel. (WCAG 2.1.1)
-
--   Fotnoterna kan inte öppnas eller är inte åtkomliga med ett tangentbord eller en skärmläsare. (WCAG 1.3.1, 2.1.1). Fotnoterna öppnas ovanpå innehållet, men kan inte stängas utan att flytta markören. (WCAG 1.4.13)
-
--   Formuläret för kamratutvärdering eller självvärdering kan inte fyllas i enbart med hjälp av ett tangentbord eller en skärmläsare. (WCAG 2.1.1) Angett värde kan inte identifieras programmatiskt. (WCAG 1.3.1). Etiketten för kommentarsfältet har inte programmatiskt kopplats samman med fältet. (WCAG 1.3.1, 4.1.2) Förloppsindikatorn för kamratutvärdering kan inte anpassas för smala skärmar. WCAG 1.4.10)
 
 -   Skärmläsaren läser inte upp inloggningsformulärets felmeddelanden. (WCAG 4.1.3). Otillräcklig kontrast på sidans länkar. (1.4.3)
 

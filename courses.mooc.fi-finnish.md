@@ -1,7 +1,7 @@
 Saavutettavuusseloste
 =====================
 
-Tämä on MOOC-oppimisympäristön (<https://courses.mooc.fi/>) saavutettavuusseloste, jota on päivitetty viimeksi 17.6.2025.
+Tämä on MOOC-oppimisympäristön (<https://courses.mooc.fi/>) saavutettavuusseloste, jota on päivitetty viimeksi 8.10.2025.
 
 Verkkosivustoa koskee laki digitaalisten palvelujen tarjoamisesta. Lain mukaan julkisten verkkopalvelujen on oltava saavutettavia, eli kaikilla tulee olla tasavertaiset mahdollisuudet käyttää verkkopalveluja.
 
@@ -30,10 +30,6 @@ Sisällöt tai toiminnot, jotka eivät ole vielä saavutettavia (WCAG-onnistumis
 ### Sivuston ominaisuudet
 
 -   Kehitä materiaalia -toiminnon käyttäminen ei ole mahdollista näppäimistöllä tai apuvälineillä. (WCAG 2.1.1)
-
--   Alaviitteitä ei pysty avaamaan tai käyttämään näppäimistöllä tai ruudunlukijalla. (WCAG 1.3.1, 2.1.1). Alaviitteet aukeavat sisällön päälle, mutta niitä ei voi sulkea liikuttamatta osoitinta. (WCAG 1.4.13)
-
--   Vertais- ja itsearviointia ei voi täyttää pelkällä näppäimistöllä tai ruudunlukijalla. (WCAG 2.1.1) Valittua arvoa ei voi havaita ohjelmallisesti. (WCAG 1.3.1). Kommenttikentän nimilappua ei ole liitetty ohjelmallisesti kenttään. (WCAG 1.3.1, 4.1.2) Vertaisarvioinnin edistymispalkki ei skaalaudu kapeille näytöille. (WCAG 1.4.10)
 
 -   Sisäänkirjautumislomakkeen virheilmoituksia ei lueta ruudunlukijalla. (WCAG 4.1.3). Sivun linkeissä on riittämätön kontrasti. (1.4.3)
 
