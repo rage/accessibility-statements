@@ -59,8 +59,6 @@ Currently inaccessible content and features (WCAG success criteria in brackets)
 
 -   Flip card content cannot be accessed with assistive technologies or keyboard controls (WCAG 1.3.1, 2.1.1). The card user interface text has low contrast ratio (WCAG 1.4.3). Content does not adapt appropriately to narrow screens (WCAG 1.4.10).
 
--   Glossary tips cannot be accessed with a keyboard or screen reader (WCAG 1.3.1, 2.1.1). The tips obscure other content and cannot be closed without moving the cursor (WCAG 1.4.13).
-
 -   Expandable sections do not operate as expected when using a keyboard (WCAG 2.1.1). Buttons used to open content lack accessible names (WCAG 4.1.2).
 
 -   Buttons and file upload blocks contain nested links and buttons, which may be confusing for users of assistive technologies. File links are preceded by an empty invisible link, resulting in screen readers typically reading the full file name (WCAG 1.3.1).

@@ -59,8 +59,6 @@ Sisällöt tai toiminnot, jotka eivät ole vielä saavutettavia (WCAG-onnistumis
 
 -   Kääntökorttien sisällöt eivät ole saavutettavia apuvälineillä eikä näppäimistöllä (WCAG 1.3.1, 2.1.1). Korttien käyttöliittymätekstin kontrasti on alhainen. (WCAG 1.4.3). Sisältö ei mukaudu kapeille ruuduille. (WCAG 1.4.10)
 
--   Sanastovihjeet eivät ole saavutettavia näppäimistöllä eikä ruudunlukijalla. (WCAG 1.3.1, 2.1.1). Vihjeet peittävät muuta sisältöä mutta ne eivät ole suljettavissa siirtämättä kursoria. (WCAG 1.4.13)
-
 -   Laajennettavat osiot eivät toimi näppäimistöllä tavanomaisella tavalla. (WCAG 2.1.1). Avauspainikkeista puuttuu saavutettava nimi. (WCAG 4.1.2)
 
 -   Painikkeissa ja tiedostonlatauslohkoissa on sisäkkäisiä linkkejä ja painikkeita, mikä voi olla apuvälinekäytössä hämmentävää. Tiedostolinkkejä edeltää tyhjä näkymätön linkki, jolloin ruudunlukijat lukevat yleensä koko tiedostonimen. (WCAG 1.3.1)

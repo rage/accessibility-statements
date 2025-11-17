@@ -59,8 +59,6 @@ Innehåll eller funktioner som ännu inte är tillgängliga (relaterade WCAG-kri
 
 -   Innehållet i flipkorten är inte tillgängligt med ett hjälpmedel eller tangentbord (WCAG 1.3.1, 2.1.1). Texterna på korten har låg kontrast. (WCAG 1.4.3). Innehållet anpassas inte för smala skärmar. WCAG 1.4.10)
 
--   Ordförslagen är inte åtkomliga med ett tangentbord eller en skärmläsare. (WCAG 1.3.1, 2.1.1). Förslagen överlappar annat innehåll, men kan inte stängas utan att flytta markören. (WCAG 1.4.13)
-
 -   De fällbara menyerna fungerar inte normalt på ett tangentbord. (WCAG 2.1.1). Öppningsknapparna saknar tillgängligt namn. (WCAG 4.1.2)
 
 -   Knapparna och filnedladdningsblocken innehåller länkar och knappar inuti varandra, vilket kan vara förvirrande när man använder hjälpmedel. Filarnas länkar föregås av en tom osynlig länk, varvid skärmläsarna oftast läser upp hela filnamnet. (WCAG 1.3.1)
